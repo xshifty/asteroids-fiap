@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#game {
+    width: 100vw;
+    position: relative;
+    color: #ffffff;
+}
+
+#screen {
+    margin: 10vh auto;
+    border: solid 1px #ffffff;
+    position: relative;
+    display: block;
+}
+
+#scoreboard {
+    max-width: 800px;
+    height: 60px;
+    margin: 20px auto;
+}
